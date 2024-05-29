@@ -2,4 +2,4 @@
 
 </script>
 
-<h1>SvelteKit Template</h1>
+<h1 class="text-center">SvelteKit Template</h1>
